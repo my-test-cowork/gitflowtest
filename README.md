@@ -11,4 +11,11 @@
 ##### 참고 Links
 - [GitHub으로 협업하기 1편 - 깃헙 프로젝트 생성, 이슈 생성, 충돌 해결까지](https://www.youtube.com/watch?v=6sBNPvxjyt0&t=50s)
 - [GitHub으로 협업하기 2편 - mermaid로 WBS 작성, branch 전략에 고려할 점, fork와 PR](https://www.youtube.com/watch?v=DHnILM-tquI)
+- [코딩컨벤션-js](https://www.youtube.com/watch?v=o2qDI35b-3A)
+- [코딩컨벤션-html,css](https://www.youtube.com/watch?v=g4gd-vhMouU)
 -   [docs](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030df?pvs=4)
+- [CI/CD 5분 개념 정리 (현업에서 쓰는 개발 프로세스)](https://www.youtube.com/watch?v=0Emq5FypiMM)
+- [깃허브 액션](https://www.youtube.com/watch?v=iLqGzEkusIw&t=16s)
+- [테코톡협업](https://www.youtube.com/watch?v=3doDm--wuJE)
+- [팀프로젝트-라메](https://www.youtube.com/watch?v=9FZaYz0s8s4)
+- [깃헙 브랜치](https://www.youtube.com/watch?v=RYfO6-hPBdw)
